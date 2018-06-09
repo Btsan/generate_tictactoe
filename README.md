@@ -3,7 +3,7 @@ Tic-Tac-Toe board state generator (along with some heuristic calculations)
 
 ###
 
-Generates all 5478 legal game states for tic-tac-toe.
+Recursively generates all 5478 legal game states for tic-tac-toe.
 
 e.g. let X be 1 and O be 0
 
