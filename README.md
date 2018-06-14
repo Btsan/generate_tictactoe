@@ -9,9 +9,11 @@ e.g. let X be 1 and O be 0
 
      then the board:
      
-     1 0 0
-     1 1 0
-     1 1 1
+     1 | 0 | 0
+     --+---+--
+     1 | 1 | 0
+     --+---+--
+     1 | 1 | 1
      
      is represented as:
      
