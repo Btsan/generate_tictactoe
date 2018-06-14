@@ -19,8 +19,8 @@ e.g. let X be 1 and O be 0
      
 ## Heuristics
 
-The provided C++ code has commented out heuristic calculation code, used to augment the generated data for use in machine learning programs.
+The provided C++ code has <strong>commented out</strong> heuristic calculation code, used to augment the generated data for use in machine learning programs.
 
 ## Tool(s)
 
-Just C++ 11
+Just C++ 11 and the g++ compiler.
