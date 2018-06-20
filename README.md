@@ -23,6 +23,8 @@ e.g. let X be 1 and O be 0
 
 The provided C++ code has <strong>commented out</strong> heuristic calculation code, used to augment the generated data for use in machine learning programs.
 
+The augmented dataset was used to prototpe a [weakly supervised training](https://arxiv.org/abs/1605.07723) program for [this checkers AI](https://github.com/Havorax/CheckersBot)
+
 ## Tool(s)
 
 Just C++ 11 and the g++ compiler.
