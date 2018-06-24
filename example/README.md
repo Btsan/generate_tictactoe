@@ -46,4 +46,4 @@ An multi-layer perceptron neural network model (MLP) is trained from weak labels
 
 ### Tools
 
-Models were implemented with [Keras](keras.io), the deep learning framework for Python.
+Models were implemented with [Keras](keras.io), a deep learning framework for Python.
