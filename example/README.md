@@ -1,6 +1,6 @@
 ## Example
 
-Usage of C++ generated data for implementing AI Tic-Tac-Toe agent.
+Usage of C++ generated data for implementing AI Tic-Tac-Toe agent in Python.
 
 ---
 
