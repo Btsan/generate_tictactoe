@@ -5,19 +5,19 @@ Tic-Tac-Toe board state generator (along with some heuristic calculations)
 
 Recursively generates all 5478 legal game states for tic-tac-toe.
 
-e.g. let X be 1 and O be 0
+e.g. let X be 1 and O be -1
 
      then the board:
      
-     1 | 0 | 0
-     --+---+--
-     1 | 1 | 0
-     --+---+--
-     1 | 1 | 1
+      1 |    |   
+     ---+----+---
+     -1 | -1 |   
+     ---+----+---
+      1 |  1 | -1
      
      is represented as:
      
-     1 0 0 1 1 0 1 1 1
+     1 0 0 -1 -1 0 1 1 -1
      
 ## Heuristics
 
